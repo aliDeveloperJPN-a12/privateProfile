@@ -1,3 +1,16 @@
+watch this website online : (https://alideveloperjpn-a12.github.io/privateProfile/)
+
+
+PIC :
+![pic](https://user-images.githubusercontent.com/115926291/224490288-6d762b00-fa58-4895-9536-f572f91c7d4e.png)
+
+
+
+
+
+
+
+
 Directory Structure
 -------------------
 css\              - Stylesheets CSS files for the template.
