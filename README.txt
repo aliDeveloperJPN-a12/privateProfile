@@ -2,7 +2,7 @@ watch this website online : (https://alideveloperjpn-a12.github.io/privateProfil
 
 
 PIC :
-![pic](https://user-images.githubusercontent.com/115926291/224490454-373b2fba-94bc-419b-916c-0af7f157c023.jpg)
+![pic](https://user-images.githubusercontent.com/115926291/224490521-1ba490fd-941b-486f-b544-1ed5ebce7249.jpg)
 
 
 
